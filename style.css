@@ -11,7 +11,7 @@ body {
 }
 
 button {
-  font-size: 7px;
+  font-size: 15px;
 }
 
 #main-content {
@@ -27,7 +27,7 @@ button {
   box-shadow: 2px 5px 5px #333;
 }
 
-#list {
+.list {
   margin: 10px;
   border: 1px solid #333;
   background: rgba(255, 255, 255, 0.75);
